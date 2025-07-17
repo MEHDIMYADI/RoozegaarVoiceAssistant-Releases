@@ -63,6 +63,9 @@
 
 ## 🖼️ اسکرین‌شات‌ها (رابط فارسی)
 
+|--------------|--------------|--------------|--------------|--------------|
+|--------------|--------------|--------------|--------------|--------------|
+| <div align="center">[![01](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20FA%2001%20Thumbnail.png)](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot20FA%2001.png)</div> | <div align="center">[![02](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20%20FA%2002%20Thumbnail.png)](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20%20FA%2002.png)</div> | <div align="center">[![03](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20%20FA%2003%20Thumbnail.png)](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20%20FA%2003.png)</div> | <div align="center">[![04](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20%20FA%2004%20Thumbnail.png)](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20%20FA%2004.png)</div> | <div align="center">[![05](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20%20FA%2005%20Thumbnail.png)](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20%20FA%2005.png)</div> |
 
 ---
 
@@ -70,11 +73,15 @@
 
 ساختار موردنیاز برای مدل‌های Vosk به این شکل است:
 
+<div dir="ltr">
+<pre>
 RoozegaarVoiceAssistant/
 └── Assets/
 └── Models/
 ├── VoskFA/
 └── VoskEN/
+</pre>
+</div>
 
 
 ---
@@ -148,7 +155,9 @@ Saying words like “comma”, “period”, or “question mark” will insert 
 ---
 
 ## 🖼️ Screenshots (English UI)
-
+|--------------|--------------|--------------|--------------|--------------|
+|--------------|--------------|--------------|--------------|--------------|
+| <div align="center">[![01](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20EN%2001%20Thumbnail.png)](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20EN%2001.png)</div> | <div align="center">[![02](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20EN%2002%20Thumbnail.png)](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20EN%2002.png)</div> | <div align="center">[![03](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20EN%2003%20Thumbnail.png)](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20EN%2003.png)</div> | <div align="center">[![04](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20EN%2004%20Thumbnail.png)](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20EN%2004.png)</div> | <div align="center">[![05](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20EN%2005%20Thumbnail.png)](https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/refs/heads/main/image/Screenshot%20EN%2005.png)</div> |
 
 ---
 
@@ -156,11 +165,15 @@ Saying words like “comma”, “period”, or “question mark” will insert 
 
 Make sure the Vosk model directories are placed as follows:
 
+<div dir="ltr">
+<pre>
 RoozegaarVoiceAssistant/
 └── Assets/
 └── Models/
 ├── VoskFA/
 └── VoskEN/
+</pre>
+</div>
 
 
 ---
