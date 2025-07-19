@@ -1,4 +1,28 @@
-# Roozegaar Voice Assistant
+<div align="center">
+  <h1>Roozegaar Calendar</h1>
+  <p>نرم افزار دستیار صوتی برای ویندوز | Comprehensive Voice Assistant Software For Windows</p>
+</div>
+<br>
+<div align="center" style="margin-top: 20px;">
+  <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Platform"></a>
+  <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/Version-1.0.0.0-green?style=for-the-badge" alt="Version"></a>
+  <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License"></a>
+</div>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/releases" ><img src="https://img.shields.io/badge/Windows-%20Portable%20x64-blue?logo=windows&logoColor=white&labelColor=gray" alt="Windows Portable x64"></a>
+  <a href="https://github.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/releases" ><img src="https://img.shields.io/badge/Windows-%20Setup%20x64-blue?logo=windows&logoColor=white&labelColor=gray" alt="Windows Setup x64"></a>
+</div>
+
+---
+
+<div align="center">
+  
+| [License](#License) | [مجوز استفاده](#مجوز-استفاده) |
+|---------------------|------------------------------|
+
+</div>
+
+---
 
 <details open>
 <summary>🇮🇷 فارسی</summary>
@@ -32,6 +56,9 @@
   - فارسی: `VoskFA`
   - انگلیسی: `VoskEN`
 
+---
+## دانلود
+نسخه‌های کامپایل شده را از [قسمت منتشر شده‌ها](https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases/releases) دانلود کنید.
 ---
 
 ## 🧭 نحوه استفاده
@@ -86,8 +113,30 @@ RoozegaarVoiceAssistant/
 
 ---
 
-## 📝 مجوز
+## مجوز استفاده
 
+**مجوز نرم‌افزار رایگان – تقویم روزگار**  
+کپی‌رایت © ۲۰۲۵ **MEHDIMYADI**  
+کلیه حقوق محفوظ است.
+
+این نرم‌افزار **به‌صورت رایگان** و فقط برای **استفاده شخصی و غیرتجاری** ارائه می‌شود.  
+کد منبع این نرم‌افزار **در دسترس عموم قرار ندارد**.
+
+### مجاز هستید:
+- نرم‌افزار را برای استفاده شخصی یا غیرتجاری دانلود و نصب کنید.
+- نصب‌کننده اصلی و بدون تغییر نرم‌افزار را به‌صورت آزادانه به اشتراک بگذارید.
+
+### مجاز نیستید:
+- نرم‌افزار را مهندسی معکوس، دی‌کامپایل یا تغییر دهید.
+- نرم‌افزار را برای مقاصد تجاری بفروشید، مجوز دهید یا توزیع کنید.
+- مالکیت یا نویسندگی نرم‌افزار را ادعا کنید.
+
+> **سلب مسئولیت:**  
+> این نرم‌افزار «همان‌گونه که هست» (AS IS) و بدون هیچ‌گونه ضمانتی، صریح یا ضمنی، ارائه می‌شود.  
+> استفاده از آن با مسئولیت خود شما خواهد بود.
+
+## وبسایت
+[روزگار](https://www.roozegaar.ir)
 
 </div>
 </details>
@@ -122,6 +171,9 @@ RoozegaarVoiceAssistant/
   - `VoskFA` for Persian
   - `VoskEN` for English
 
+---
+## Download
+You can download the compiled versions from the [Releases](https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases/releases) section.
 ---
 
 ## 🚀 How to Use
@@ -178,7 +230,31 @@ RoozegaarVoiceAssistant/
 
 ---
 
-## 📄 License
+## License
 
+**Freeware License – Roozegaar Calendar**  
+Copyright © 2025 **MEHDIMYADI**  
+All rights reserved.
+
+This software is provided **free of charge** for **personal and non-commercial use only**.  
+The source code is **not publicly available**.
+
+### Permissions
+You are allowed to:
+- Download and install the software for personal or non-commercial use.
+- Share the original, unmodified installer freely.
+
+### Restrictions
+You are **not** allowed to:
+- Reverse-engineer, decompile, or modify the software.
+- Sell, license, or distribute the software for commercial purposes.
+- Claim ownership or authorship of the software or any part thereof.
+
+> **Disclaimer:**  
+> This software is provided "AS IS", without warranty of any kind, express or implied.  
+> Use it at your own risk.
+
+## Website
+Visit [www.roozegaar.ir](https://www.roozegaar.ir) for more details.
 
 </details>
