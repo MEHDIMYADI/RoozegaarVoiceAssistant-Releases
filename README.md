@@ -58,7 +58,7 @@
 
 ---
 ## دانلود
-نسخه‌های کامپایل شده را از [قسمت منتشر شده‌ها](https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases/releases) دانلود کنید.
+نسخه‌های کامپایل شده را از [قسمت منتشر شده‌ها](https://github.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/releases) دانلود کنید.
 ---
 
 ## 🧭 نحوه استفاده
@@ -173,7 +173,7 @@ RoozegaarVoiceAssistant/
 
 ---
 ## Download
-You can download the compiled versions from the [Releases](https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases/releases) section.
+You can download the compiled versions from the [Releases](https://github.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases/releases) section.
 ---
 
 ## 🚀 How to Use
